@@ -20,7 +20,9 @@ The proposed RGBT crowd counting framework is composed of three parallel backbon
 
 
 ## More References
-<p> Crowd Counting with Deep Structured Scale Integration Network, ICCV 2019 [<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf">PDF</a>] </p>
+</p> 
+						<li> 
+						<p> Crowd Counting with Deep Structured Scale Integration Network, ICCV 2019 [<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf">PDF</a>] </p>
 						</li>
 					        <li>
 						<p> Crowd Counting using Deep Recurrent Spatial-Aware Network, IJCAI 2018 [<a href="https://www.ijcai.org/proceedings/2018/0118.pdf">PDF</a>] </p>
