@@ -5,7 +5,7 @@ Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin. "Cross-M
 
 Download RGBT-CC Dataset & Models: [<a href="https://www.dropbox.com/sh/o4ww2f5tv3nay9n/AAA4CfVMTZcdwsFxFlhwDsSba?dl=0">Dropbox</a>][<a href="https://pan.baidu.com/s/1ui265kpRGIpTu9kLQrEYgA">BaiduYun (PW: RGBT)</a>]
 
-Our framework can be implemented with various backbone networks. You can refer to <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/BL">here</a> for implementing BL+IADM. (Other models are coming soon.)
+Our framework can be implemented with various backbone networks. You can refer to this page for implementing <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/BL">BL+IADM</a>. (Other models are coming soon.)
 
 
 ## Introduction
