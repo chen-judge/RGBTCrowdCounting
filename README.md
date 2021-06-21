@@ -15,7 +15,7 @@ If you use this code and denchmark for your research, please cite our work:
   title={Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting},
   author={Liu, Lingbo and Chen, Jiaqi and Wu, Hefeng and Li, Guanbin and Li, Chenglong and Lin, Liang},
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2020}
+  year={2021}
 }
 ```
 
