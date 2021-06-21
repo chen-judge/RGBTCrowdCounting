@@ -34,4 +34,4 @@ Edit this file for testing models.
 ```
 bash test.sh
 ```
-
+You can also test our checkpoints released at [here](https://www.dropbox.com/sh/o4ww2f5tv3nay9n/AAA4CfVMTZcdwsFxFlhwDsSba?dl=0)
