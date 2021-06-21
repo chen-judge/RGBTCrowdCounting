@@ -1,3 +1,4 @@
+# BL+IADM for RGBT Crowd Counting 
 
 We follow the official code of [Bayesian Loss for Crowd Count Estimation with Point Supervision (BL)](https://github.com/ZhihengCV/Bayesian-Crowd-Counting).
 
