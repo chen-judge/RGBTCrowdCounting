@@ -39,8 +39,6 @@ def main():
             print("=> loading checkpoint '{}'".format(args.checkpoint))
             checkpoint = torch.load(args.checkpoint)
             model.load_state_dict(checkpoint['state_dict'])
-            print("=> loaded checkpoint '{}' (epoch {})"
-                  .format(args.checkpoint, checkpoint['epoch']))
         else:
             print("=> no checkpoint found at '{}'".format(args.checkpoint))
 
