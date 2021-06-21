@@ -7,7 +7,7 @@ Download RGBT-CC Dataset & Models: [<a href="https://www.dropbox.com/sh/o4ww2f5t
 
 Our framework can be implemented with various backbone networks. You can refer to this page for implementing <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/BL">BL+IADM</a>. 
 
-Moreover, the proposed framework can also be applied to RGBD crowd counting and the implementation of CSRNet+IADM is <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/CSRNet%2BIADM%20for%20RGBD%20Crowd%20Counting">available</a>.
+Moreover, the proposed framework can also be applied to RGBD crowd counting and the implementation of <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/CSRNet%2BIADM%20for%20RGBD%20Crowd%20Counting">CSRNet+IADM is available</a>.
 
 
 ## Introduction
