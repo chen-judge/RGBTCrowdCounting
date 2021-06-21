@@ -1,6 +1,6 @@
 import torch
 import os
-import argparse
+import argparse 
 from datasets.crowd import Crowd
 from models.fusion import fusion_model
 from utils.evaluation import eval_game, eval_relative
