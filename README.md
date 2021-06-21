@@ -9,6 +9,15 @@ Our framework can be implemented with various backbone networks. You can refer t
 
 Moreover, the proposed framework can also be applied to RGBD crowd counting and the implementation of <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/CSRNet%2BIADM%20for%20RGBD%20Crowd%20Counting">CSRNet+IADM is available</a>.
 
+If you use this code and denchmark for your research, please cite our work:
+```
+@inproceedings{liu2021cross,
+  title={Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting},
+  author={Liu, Lingbo and Chen, Jiaqi and Wu, Hefeng and Li, Guanbin and Li, Chenglong and Lin, Liang},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
+```
 
 ## Introduction
 Crowd counting is a fundamental yet challenging task, which desires rich information to generate pixel-wise crowd density maps. In this work, we find that incorporating optical and thermal information can greatly help to recognize pedestrians. To promote future researches in this field, we introduce a large-scale RGBT Crowd Counting (RGBT-CC) benchmark, which contains 2,030 pairs of RGB-thermal images with 138,389 annotated people. Furthermore, to facilitate the multimodal crowd counting, we propose a cross-modal collaborative representation learning framework, which consists of multiple modality-specific branches, a modality-shared branch, and an Information Aggregation-Distribution Module (IADM) to capture the complementary information of different modalities fully. Specifically, our IADM incorporates two collaborative information transfers to dynamically enhance the modality-shared and modality-specific representations with a dual information propagation mechanism. Extensive experiments conducted on the RGBT-CC benchmark demonstrate the effectiveness of our framework for RGBT crowd counting.
