@@ -7,7 +7,7 @@ Download RGBT-CC Dataset & Models: [<a href="https://www.dropbox.com/sh/o4ww2f5t
 
 Our framework can be implemented with various backbone networks. You can refer to this page for implementing <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/BL%2BIADM%20for%20RGBT%20Crowd%20Counting">BL+IADM</a>.  Moreover, the proposed framework can also be applied to RGBD crowd counting and the implementation of <a href="https://github.com/chen-judge/RGBTCrowdCounting/tree/main/CSRNet%2BIADM%20for%20RGBD%20Crowd%20Counting">CSRNet+IADM is available</a>.
 
-If you use this code and denchmark for your research, please cite our work:
+If you use this code and benchmark for your research, please cite our work:
 ```
 @inproceedings{liu2021cross,
   title={Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting},
